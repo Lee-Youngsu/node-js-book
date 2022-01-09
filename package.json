@@ -1,0 +1,20 @@
+{
+  "name": "js-book",
+  "version": "1.0.0",
+  "description": "노드교과서 학습 저장소",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lee-Youngsu/node-js-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lee-Youngsu/node-js-book/issues"
+  },
+  "homepage": "https://github.com/Lee-Youngsu/node-js-book#readme"
+}
