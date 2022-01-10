@@ -3,6 +3,8 @@ Node.js 교과서 학습
 ```
 https://github.com/ZeroCho/nodejs-book
 ```
+
+# readme template
 # 프로젝트 제목
 
 프로젝트 설명의 한 단락이 여기에 표시됩니다.
@@ -90,11 +92,3 @@ https://github.com/ZeroCho/nodejs-book
 * 코드가 사용된 모든 사람에게 유용한 팁
 * 영감
 * 등
-
-
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Javascript)](https://github.com/Lee-Youngsu)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,eGovFrame,JavaScript,jQuery,Node.js,Express.js,HTML,CSS,Bootstrap,Android)](https://github.com/Lee-Youngsu)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,Oracle,PostgreSQL,SQLite,Docker,Git,GitHub,Nginx)](https://github.com/Lee-Youngsu)
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Lee-Youngsu&node-js-book)](https://github.com/Lee-Youngsu/node-js-book)
