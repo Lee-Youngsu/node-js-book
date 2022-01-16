@@ -1,4 +1,4 @@
-const util = require('util');
+const util = require('ch02/util');
 const crypto = require('crypto');
 
 const dontUseMe = util.deprecate((x, y) => {
